@@ -1,0 +1,3 @@
+fastapi
+sqlite3
+requests
